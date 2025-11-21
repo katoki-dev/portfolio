@@ -17,7 +17,7 @@ A modern, responsive portfolio website showcasing cybersecurity expertise and pr
 1. **Home**: Hero section with introduction and call-to-action
 2. **About**: Personal information, stats, and code showcase
 3. **Skills**: Technical skills with animated progress bars
-4. **Projects**: 5 featured cybersecurity projects
+4. **Projects**: 7 featured cybersecurity projects
 5. **Certificates**: 9 professional certifications and achievements
 6. **Contact**: Direct email and social media links
 
